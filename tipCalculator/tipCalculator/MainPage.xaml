@@ -30,7 +30,9 @@
                 <Label
                     Text="ValorTotal"
                     />
-                <Label Text="R$: 0,00"
+                <Label 
+                    x:Name="valorTotal"
+                    Text="R$: 0,00"
                     
                     />
                 <!-- quarta linha-->
